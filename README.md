@@ -58,7 +58,7 @@ https://api.openweathermap.org/data/2.5/weather
 
 ## Screenshots
 
-<img width="1280" height="720" alt="Screenshot 2026-06-04 001712" src="https://github.com/user-attachments/assets/02290b53-4bf8-4ba7-bbe0-07fc96b36673" />
+<img width="600" height="338" alt="Screenshot 2026-06-04 001712" src="https://github.com/user-attachments/assets/02290b53-4bf8-4ba7-bbe0-07fc96b36673" />
 <img width="1920" height="1080" alt="Screenshot 2026-06-04 001812" src="https://github.com/user-attachments/assets/138b5738-c215-486c-89c5-15534dcc84bb" />
 <img width="1920" height="1080" alt="Screenshot 2026-06-04 001842" src="https://github.com/user-attachments/assets/8e32120b-f700-4294-bb43-a1d9428182f1" />
 
